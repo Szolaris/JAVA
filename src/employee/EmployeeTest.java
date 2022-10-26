@@ -6,7 +6,7 @@ public class EmployeeTest {
         Employee dolgozo2 = new Employee(900, 4,50);
         dolgozo1.setEmployeeId(568854);
         dolgozo1.addSalary(10, 500);
-        dolgozo1.addSalary(200, 600);
+        dolgozo1.addSalary(200, 800);
         dolgozo1.addWork();
         dolgozo1.getInfo();
         dolgozo2.setEmployeeId(34526);
